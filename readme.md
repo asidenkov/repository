@@ -10,4 +10,6 @@ Git logo by Jason Long. http://git-scm.com/downloads/logos,  license [CC BY 3.0]
 ## Содержание
 1. [Основные понятия](/Basic-concepts.md)
 2. [Установка и настройка в Windows](/install.md)
-3. 
+3. [Создание репозитория](/create-repository.md)
+4. [Основные команды](/main-commands.md)
+5. [Удаленный репозиторий](/remote-repository.md)
