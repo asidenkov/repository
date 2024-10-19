@@ -9,3 +9,5 @@ Git logo by Jason Long. http://git-scm.com/downloads/logos,  license [CC BY 3.0]
 
 ## Содержание
 1. [Основные понятия](/Basic-concepts.md)
+2. [Установка и настройка в Windows](/install.md)
+3. 
