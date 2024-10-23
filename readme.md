@@ -14,4 +14,3 @@ Git logo by Jason Long. http://git-scm.com/downloads/logos,  license [CC BY 3.0]
 4. [Основные команды](/main-commands.md)
 5. [Удаленный репозиторий](/remote-repository.md)
 6. [Ветвление](/Branching.md)
-7. r33r 
